@@ -47,7 +47,7 @@ uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 [Boost]
 patches-source = "wchill/patcheddit"
 cli-source = "MorpheApp/morphe-cli"
-uptodown-dlurl = "https://boost-for-reddit.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/tpRaa/com.rubenmayayo.reddit"
 patcher-args = "-e 'Spoof client' -Oclient-id=fyANDeFodM3bIfthz8z0yQ"
 
 [Strava]
