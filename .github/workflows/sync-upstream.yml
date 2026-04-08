@@ -46,7 +46,7 @@ jobs:
 
           git checkout -B main origin/main
 
-          if ! git merge upstream/main --no-ff --no-commit > /dev/null 2>&1; then
+          if ! git merge upstream/main --no-ff --no-commit; then
             CONFLICT_FILES=$(git diff --name-only --diff-filter=U)
             if echo "$CONFLICT_FILES" | grep -Ev '^(README\.md|config\.toml)$' > /dev/null; then
               echo "::error::Unresolved conflicts detected from upstream"
