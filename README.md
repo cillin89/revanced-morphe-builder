@@ -147,14 +147,14 @@
 ### [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
 <details>
-<summary id="YouTube">&emsp;<a href="../../releases/download/4/youtube-morpheapp-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube">&emsp;<a href="https://github.com/cillin89/revanced-morphe-builder/releases/download/14/youtube-morpheapp-v20.47.62-all.apk"><img src="https://img.shields.io/badge/YouTube-v20.47.62-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 
 Other variants:     
-[arm-v7a.apk](../../releases/download/37/youtube-nvbangg-v20.45.36-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/1/youtube-morpheapp-module-v20.45.36-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/37/youtube-nvbangg-module-v20.45.36-arm-v7a.zip)
+[arm-v7a.apk](https://github.com/cillin89/revanced-morphe-builder/releases/download/14/youtube-morpheapp-v20.47.62-all.apk) • [arm64-v8a.zip](../../releases/download/1/youtube-morpheapp-module-v20.45.36-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/37/youtube-nvbangg-module-v20.45.36-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-10](../../releases/tag/4)<br>
-Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.23.0)
+[Release 2026-04-21](https://github.com/cillin89/revanced-morphe-builder/releases/tag/14)<br>
+Patches: [MorpheApp/patches-1.24.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.24.0)
 - Alternative thumbnails
 - Ambient mode
 - Bypass URL redirects
@@ -202,7 +202,7 @@ Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patc
 - Open links externally
 - Open system share sheet
 - Open videos fullscreen
-- Override YouTube Music actions
+- Override YouTube Music buttons
 - Play all
 - Playback speed
 - Reload video
