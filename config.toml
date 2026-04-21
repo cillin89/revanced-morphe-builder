@@ -5,6 +5,7 @@ parallel-jobs = 1
 [YouTube]
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 excluded-patches = "'Custom branding' 'Theme'"
 arch = "arm64-v8a"
@@ -13,6 +14,7 @@ build-mode = "apk"
 [YouTube-Music]
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 excluded-patches = "'Custom branding' 'Theme'"
 arch = "arm64-v8a"
