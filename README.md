@@ -510,14 +510,14 @@ Patches: ReVanced/patches-6.1.0.rvp
 </details>
 
 <details>
-<summary id="YouTube-Music-Anddea">&emsp;<a href="../../releases/download/37/youtube-music-anddea-v8.30.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/Anddea-v8.30.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-Anddea">&emsp;<a href="https://github.com/cillin89/revanced-morphe-builder/releases/download/16/youtube-music-anddea-anddea-v8.30.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/Anddea-v8.30.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/37/youtube-music-anddea-v8.30.54-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/37/youtube-music-anddea-module-v8.30.54-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/37/youtube-music-anddea-module-v8.30.54-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-30](../../releases/tag/37)<br>
-Patches: anddea/patches-4.0.0.mpp
+[Release 2026-04-23](https://github.com/cillin89/revanced-morphe-builder/releases/tag/16)<br>
+Patches: [anddea/patches-4.0.0.mpp](https://github.com/anddea/revanced-patches/releases/tag/v4.0.0)
 - Bitrate default value
 - Bypass image region restrictions
 - Certificate spoof
