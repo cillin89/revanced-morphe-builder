@@ -858,14 +858,14 @@ Patches: [hoo-dles/patches-1.21.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo)
 
 <details>
-<summary id="Duolingo">&emsp;<a href="https://github.com/cillin89/revanced-morphe-builder/releases/download/18/duolingo-hoo-dles-v6.74.4-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.74.4-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
+<summary id="Duolingo">&emsp;<a href="https://github.com/cillin89/revanced-morphe-builder/releases/download/19/duolingo-hoo-dles-v6.74.4-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.74.4-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/1/duolingo-hoo-dles-v6.66.5-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/1/duolingo-hoo-dles-module-v6.66.5-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/1/duolingo-hoo-dles-module-v6.66.5-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-23](https://github.com/cillin89/revanced-morphe-builder/releases/tag/18)<br>
-Patches: [hoo-dles/patches-1.26.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.26.0)
+[Release 2026-04-25](https://github.com/cillin89/revanced-morphe-builder/releases/tag/19)<br>
+Patches: [hoo-dles/patches-1.27.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.27.0)
 - Disable Login Integrity
 - Enable Premium
 </blockquote>
@@ -1293,14 +1293,14 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Busuu](https://play.google.com/store/apps/details?id=com.busuu.android.enc)
 
 <details>
-<summary id="Busuu">&emsp;<a href="https://github.com/cillin89/revanced-morphe-builder/releases/download/18/busuu-hoo-dles-v32.30.0.1575420.-arm64-v8a.apk"><img src="https://img.shields.io/badge/Busuu-v32.30.0(1575420)-gray?labelColor=116EEE&logo=busuu&logoColor=white"></a></summary>
+<summary id="Busuu">&emsp;<a href="https://github.com/cillin89/revanced-morphe-builder/releases/download/19/busuu-hoo-dles-v32.30.0.1575420.-arm64-v8a.apk"><img src="https://img.shields.io/badge/Busuu-v32.30.0(1575420)-gray?labelColor=116EEE&logo=busuu&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/1/busuu-hoo-dles-v32.30.0.1575420.-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/1/busuu-hoo-dles-module-v32.30.0.1575420.-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/1/busuu-hoo-dles-module-v32.30.0.1575420.-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-23](https://github.com/cillin89/revanced-morphe-builder/releases/tag/18)<br>
-Patches: [hoo-dles/patches-1.26.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.26.0)
+[Release 2026-04-25](https://github.com/cillin89/revanced-morphe-builder/releases/tag/19)<br>
+Patches: [hoo-dles/patches-1.27.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.27.0)
 - Enable Premium
 </blockquote>
 </details>
@@ -1344,14 +1344,14 @@ Patches: [hoo-dles/patches-1.21.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Windy](https://play.google.com/store/apps/details?id=com.windyty.android)
 
 <details>
-<summary id="Windy">&emsp;<a href="https://github.com/cillin89/revanced-morphe-builder/releases/download/18/windy-hoo-dles-v49.0.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Windy-v49.0.1-gray?labelColor=C62828&logo=windy&logoColor=white"></a></summary>
+<summary id="Windy">&emsp;<a href="https://github.com/cillin89/revanced-morphe-builder/releases/download/19/windy-hoo-dles-v49.0.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Windy-v49.0.1-gray?labelColor=C62828&logo=windy&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/1/windy-hoo-dles-v49.0.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/1/windy-hoo-dles-module-v49.0.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/1/windy-hoo-dles-module-v49.0.1-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-23](https://github.com/cillin89/revanced-morphe-builder/releases/tag/18)<br>
-Patches: [hoo-dles/patches-1.26.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.26.0)
+[Release 2026-04-25](https://github.com/cillin89/revanced-morphe-builder/releases/tag/19)<br>
+Patches: [hoo-dles/patches-1.27.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.27.0)
 - Enable Premium
 </blockquote>
 </details>
