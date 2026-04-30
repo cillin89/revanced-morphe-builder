@@ -1,14 +1,8 @@
-Busuu (arm64-v8a): 32.30.0(1575420)  
-Duolingo (arm64-v8a): 6.74.4  
-MacroFactor (arm64-v8a): 5.7.6  
-Windy (arm64-v8a): 49.0.1  
+Trakt (arm64-v8a): 3.7.0  
 
   
-Patches: hoo-dles/patches-1.28.0.mpp  
-[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.28.0)  
+Patches: binarymend/patches-1.3.1.mpp  
+[Changelog](https://github.com/binarymend/morphe-patches/releases/tag/v1.3.1)
 
-Skipped:  
-Patches: wchill/patches-1.4.0.mpp  
-Patches: RookieEnough/patches-1.0.3.mpp  
-Patches: crimera/patches-3.2.0.mpp  
-Patches: MorpheApp/patches-1.24.0.mpp        
+Patches: PixelPusher247/patches-1.3.0.mpp  
+[Changelog](https://github.com/PixelPusher247/morphe-patches/releases/tag/v1.3.0)  
