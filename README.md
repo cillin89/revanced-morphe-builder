@@ -153,7 +153,7 @@ Other variants:
 [arm-v7a.apk](https://github.com/cillin89/revanced-morphe-builder/releases/download/14/youtube-morpheapp-v20.47.62-all.apk) • [arm64-v8a.zip](../../releases/download/1/youtube-morpheapp-module-v20.45.36-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/37/youtube-nvbangg-module-v20.45.36-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-21](https://github.com/cillin89/revanced-morphe-builder/releases/tag/14)<br>
+[Release 2026-04-30](https://github.com/cillin89/revanced-morphe-builder/releases/tag/22)<br>
 Patches: [MorpheApp/patches-1.24.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.24.0)
 - Alternative thumbnails
 - Ambient mode
@@ -558,13 +558,13 @@ Patches: [anddea/patches-4.0.0.mpp](https://github.com/anddea/revanced-patches/r
 ### [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 
 <details>
-<summary id="Google-Photos">&emsp;<a href="https://github.com/cillin89/revanced-morphe-builder/releases/download/18/google-photos-rookieenough-v7.73.0.902316009-arm64-v8a.apk"><img src="https://img.shields.io/badge/Google_Photos-v7.73.0.902316009-gray?labelColor=FBBC04&logo=google-photos&logoColor=000000"></a></summary>
+<summary id="Google-Photos">&emsp;<a href="https://github.com/cillin89/revanced-morphe-builder/releases/download/22/google-photos-rookieenough-v7.74.0.906046556-arm64-v8a.apk"><img src="https://img.shields.io/badge/Google_Photos-v7.74.0.906046556-gray?labelColor=FBBC04&logo=google-photos&logoColor=000000"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/43/google-photos-rookieenough-v7.70.0.893169212-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/1/google-photos-rookieenough-module-v7.71.0.895417930-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/43/google-photos-rookieenough-module-v7.70.0.893169212-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-23](https://github.com/cillin89/revanced-morphe-builder/releases/tag/18)<br>
+[Release 2026-04-30](https://github.com/cillin89/revanced-morphe-builder/releases/tag/22)<br>
 Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.3)
 - GmsCore support
 - Spoof features
@@ -858,13 +858,13 @@ Patches: [hoo-dles/patches-1.21.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo)
 
 <details>
-<summary id="Duolingo">&emsp;<a href="https://github.com/cillin89/revanced-morphe-builder/releases/download/20/duolingo-hoo-dles-v6.74.4-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.74.4-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
+<summary id="Duolingo">&emsp;<a href="https://github.com/cillin89/revanced-morphe-builder/releases/download/22/duolingo-hoo-dles-v6.74.4-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.74.4-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/1/duolingo-hoo-dles-v6.66.5-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/1/duolingo-hoo-dles-module-v6.66.5-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/1/duolingo-hoo-dles-module-v6.66.5-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-27](https://github.com/cillin89/revanced-morphe-builder/releases/tag/20)<br>
+[Release 2026-04-30](https://github.com/cillin89/revanced-morphe-builder/releases/tag/22)<br>
 Patches: [hoo-dles/patches-1.28.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.28.0)
 - Disable Login Integrity
 - Enable Premium
@@ -1015,10 +1015,10 @@ Patches: [jkennethcarino/patches-1.0.0.mpp](https://github.com/jkennethcarino/ad
 ### [Google Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder)
 
 <details>
-<summary id="Google-Recorder">&emsp;<a href="https://github.com/cillin89/revanced-morphe-builder/releases/download/18/google-recorder-rookieenough-v4.2.20260307.900600387-arm64-v8a.apk"><img src="https://img.shields.io/badge/Google_Recorder-v4.2.20260307.900600387-gray?labelColor=F44336&logo=google&logoColor=white"></a></summary>
+<summary id="Google-Recorder">&emsp;<a href="https://github.com/cillin89/revanced-morphe-builder/releases/download/22/google-recorder-rookieenough-v4.2.20260307.900600387-arm64-v8a.apk"><img src="https://img.shields.io/badge/Google_Recorder-v4.2.20260307.900600387-gray?labelColor=F44336&logo=google&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-04-23](https://github.com/cillin89/revanced-morphe-builder/releases/tag/18)<br>
+[Release 2026-04-30](https://github.com/cillin89/revanced-morphe-builder/releases/tag/22)<br>
 Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.3)
 - Remove device restrictions
 </blockquote>
@@ -1150,13 +1150,13 @@ Patches: [hoo-dles/patches-1.21.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Strava](https://play.google.com/store/apps/details?id=com.strava)
 
 <details>
-<summary id="Strava">&emsp;<a href="https://github.com/cillin89/revanced-morphe-builder/releases/download/18/strava-rookieenough-v460.9-arm64-v8a.apk"><img src="https://img.shields.io/badge/Strava-v460.9-gray?labelColor=FC4C02&logo=Strava&logoColor=white"></a></summary>
+<summary id="Strava">&emsp;<a href="https://github.com/cillin89/revanced-morphe-builder/releases/download/22/strava-rookieenough-v461.13-arm64-v8a.apk"><img src="https://img.shields.io/badge/Strava-v461.13-gray?labelColor=FC4C02&logo=Strava&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/43/strava-rookieenough-v457.13-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/1/strava-rookieenough-module-v457.13-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/43/strava-rookieenough-module-v457.13-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-23](https://github.com/cillin89/revanced-morphe-builder/releases/tag/18)<br>
+[Release 2026-04-30](https://github.com/cillin89/revanced-morphe-builder/releases/tag/22)<br>
 Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.3)
 - Add 'Give Kudos' button to 'Group Activity'
 - Add media download
@@ -1293,13 +1293,13 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Busuu](https://play.google.com/store/apps/details?id=com.busuu.android.enc)
 
 <details>
-<summary id="Busuu">&emsp;<a href="https://github.com/cillin89/revanced-morphe-builder/releases/download/20/busuu-hoo-dles-v32.30.0.1575420.-arm64-v8a.apk"><img src="https://img.shields.io/badge/Busuu-v32.30.0(1575420)-gray?labelColor=116EEE&logo=busuu&logoColor=white"></a></summary>
+<summary id="Busuu">&emsp;<a href="https://github.com/cillin89/revanced-morphe-builder/releases/download/22/busuu-hoo-dles-v32.30.0.1575420.-arm64-v8a.apk"><img src="https://img.shields.io/badge/Busuu-v32.30.0(1575420)-gray?labelColor=116EEE&logo=busuu&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/1/busuu-hoo-dles-v32.30.0.1575420.-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/1/busuu-hoo-dles-module-v32.30.0.1575420.-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/1/busuu-hoo-dles-module-v32.30.0.1575420.-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-27](https://github.com/cillin89/revanced-morphe-builder/releases/tag/20)<br>
+[Release 2026-04-30](https://github.com/cillin89/revanced-morphe-builder/releases/tag/22)<br>
 Patches: [hoo-dles/patches-1.28.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.28.0)
 - Enable Premium
 </blockquote>
@@ -1344,13 +1344,13 @@ Patches: [hoo-dles/patches-1.21.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Windy](https://play.google.com/store/apps/details?id=com.windyty.android)
 
 <details>
-<summary id="Windy">&emsp;<a href="https://github.com/cillin89/revanced-morphe-builder/releases/download/20/windy-hoo-dles-v49.0.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Windy-v49.0.1-gray?labelColor=C62828&logo=windy&logoColor=white"></a></summary>
+<summary id="Windy">&emsp;<a href="https://github.com/cillin89/revanced-morphe-builder/releases/download/22/windy-hoo-dles-v49.0.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Windy-v49.0.1-gray?labelColor=C62828&logo=windy&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/1/windy-hoo-dles-v49.0.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/1/windy-hoo-dles-module-v49.0.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/1/windy-hoo-dles-module-v49.0.1-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-27](https://github.com/cillin89/revanced-morphe-builder/releases/tag/20)<br>
+[Release 2026-04-30](https://github.com/cillin89/revanced-morphe-builder/releases/tag/22)<br>
 Patches: [hoo-dles/patches-1.28.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.28.0)
 - Enable Premium
 </blockquote>
