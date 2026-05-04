@@ -16,8 +16,8 @@ arch = "arm64-v8a"
 build-mode = "apk"
 
 [SyncForReddit]
-patches-source = "wchill/patcheddit"
-cli-source = "MorpheApp/morphe-cli"
+# patches-source = "wchill/patcheddit"
+# cli-source = "MorpheApp/morphe-cli"
 direct-dlurl = "https://dn721809.ca.archive.org/0/items/tpRaa/com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync-23.06.30-13_39-23033-all.apk"
 patcher-args = "-e 'Spoof client' -Oclient-id=hCoHfnBLLqql3Glnz5jQqQ"
 arch = "all" 
