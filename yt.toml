@@ -1,4 +1,5 @@
 [Symfonium]
+enabled = false
 patches-source = "binarymend/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 uptodown-dlurl = "https://symfonium.en.uptodown.com/android"
@@ -7,6 +8,7 @@ arch = "arm64-v8a"
 build-mode = "apk"
 
 [Trakt]
+enabled = false
 patches-source = "PixelPusher247/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 uptodown-dlurl = "https://trakt.en.uptodown.com/android"
