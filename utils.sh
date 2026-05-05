@@ -299,15 +299,7 @@ patches_list_versions() {
 			fi
 		fi
 	fi
-
-	cmd="${cmd_base} '$patches_jar' -f '$pkg_name'"
-	if op=$(eval "$cmd" 2>&1); then
-		echo "$op"
-		return
-	fi
-
-	epr "Could not list versions $cli_jar: '$op'"
-	return 1
+	echo "$op"
 }
 patches_list() {
 	local cli_jar=$1 patches_jar=$2 pkg_name=$3 op
