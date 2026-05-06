@@ -153,8 +153,8 @@ Other variants:
 [arm-v7a.apk](https://github.com/cillin89/revanced-morphe-builder/releases/download/14/youtube-morpheapp-v20.47.62-all.apk) • [arm64-v8a.zip](../../releases/download/1/youtube-morpheapp-module-v20.45.36-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/37/youtube-nvbangg-module-v20.45.36-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-05-05](https://github.com/cillin89/revanced-morphe-builder/releases/tag/27)<br>
-Patches: [MorpheApp/patches-1.25.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.25.0)
+[Release 2026-05-06](https://github.com/cillin89/revanced-morphe-builder/releases/tag/28)<br>
+Patches: [MorpheApp/patches-1.26.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.26.0)
 - Alternative thumbnails
 - Ambient mode
 - Bypass URL redirects
