@@ -114,8 +114,9 @@
 
 <details>
 <summary id="YouTube">Recommended: <a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/youtube-nvbangg-v20.47.62-all.apk"><img src="https://img.shields.io/badge/YouTube-v20.47.62-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
-  
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.youtube%22%2C%22name%22%3A%22YouTube%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22youtube-nvbangg%5C%22%7D%22%7D) 
+<br>
+
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.youtube%22%2C%22name%22%3A%22YouTube%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22youtube-nvbangg%5C%22%7D%22%7D) 
 - This is a Morphe-based build with only essential patches, keeping YouTube close to the original experience. Great for beginners. 
 <blockquote>
 
@@ -144,8 +145,9 @@ Patches: [MorpheApp/patches-1.25.0.mpp](https://github.com/MorpheApp/morphe-patc
 
 <details>
 <summary id="YouTube-Morphe">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/youtube-morpheapp-v20.47.62-all.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.47.62-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.youtube%22%2C%22name%22%3A%22YouTube%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22youtube-morpheapp%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.youtube%22%2C%22name%22%3A%22YouTube%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22youtube-morpheapp%5C%22%7D%22%7D) 
 - This is YouTube Morphe with full patches applied
 <blockquote>
 
@@ -226,8 +228,9 @@ Patches: [MorpheApp/patches-1.25.0.mpp](https://github.com/MorpheApp/morphe-patc
 
 <details>
 <summary id="YouTube-Music">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/youtube-music-morpheapp-v8.47.56-all.apk"><img src="https://img.shields.io/badge/YouTube_Music-v8.47.56-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.apps.youtube.music%22%2C%22name%22%3A%22YouTube%20Music%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22youtube-music%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.apps.youtube.music%22%2C%22name%22%3A%22YouTube%20Music%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22youtube-music%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-05-02](https://github.com/nvbangg/builder-for-morphe/releases/tag/63)<br>
@@ -265,8 +268,9 @@ Patches: [MorpheApp/patches-1.25.0.mpp](https://github.com/MorpheApp/morphe-patc
 
 <details>
 <summary id="Google-Photos">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/48/google-photos-rookieenough-v7.68.0.884121604-all.apk"><img src="https://img.shields.io/badge/Google_Photos-v7.68.0.884121604-gray?labelColor=FBBC04&logo=google-photos&logoColor=000000"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.apps.photos%22%2C%22name%22%3A%22Google%20Photos%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22google-photos%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.apps.photos%22%2C%22name%22%3A%22Google%20Photos%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22google-photos%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-12](https://github.com/nvbangg/builder-for-morphe/releases/tag/48)<br>
@@ -281,8 +285,9 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 
 <details>
 <summary id="Facebook">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/48/facebook-rookieenough-v490.0.0.63.82-arm64-v8a.apk"><img src="https://img.shields.io/badge/Facebook-v490.0.0.63.82-gray?labelColor=1877F2&logo=Facebook&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.facebook.katana%22%2C%22name%22%3A%22Facebook%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22facebook%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.facebook.katana%22%2C%22name%22%3A%22Facebook%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22facebook%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-12](https://github.com/nvbangg/builder-for-morphe/releases/tag/48)<br>
@@ -297,8 +302,9 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 
 <details>
 <summary id="Instagram">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/51/instagram-crimera-v423.0.0.47.66-arm64-v8a.apk"><img src="https://img.shields.io/badge/Instagram-v423.0.0.47.66-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.instagram.android%22%2C%22name%22%3A%22Instagram%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22instagram%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.instagram.android%22%2C%22name%22%3A%22Instagram%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22instagram%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-14](https://github.com/nvbangg/builder-for-morphe/releases/tag/51)<br>
@@ -338,8 +344,9 @@ Patches: [crimera/patches-3.2.0.mpp](https://github.com/crimera/piko/releases/ta
 
 <details>
 <summary id="Threads">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/48/threads-rookieenough-v382.0.0.51.85-arm64-v8a.apk"><img src="https://img.shields.io/badge/Threads-v382.0.0.51.85-gray?labelColor=0F1419&logo=Threads&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.instagram.barcelona%22%2C%22name%22%3A%22Threads%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22threads%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.instagram.barcelona%22%2C%22name%22%3A%22Threads%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22threads%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-12](https://github.com/nvbangg/builder-for-morphe/releases/tag/48)<br>
@@ -353,8 +360,9 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 
 <details>
 <summary id="Messenger">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/36/messenger-rookieenough-v552.0.0.44.65-arm64-v8a.apk"><img src="https://img.shields.io/badge/Messenger-v552.0.0.44.65-gray?labelColor=00B2FF&logo=Messenger&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.facebook.orca%22%2C%22name%22%3A%22Messenger%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22messenger%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.facebook.orca%22%2C%22name%22%3A%22Messenger%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22messenger%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-03-25](https://github.com/nvbangg/builder-for-morphe/releases/tag/36)<br>
@@ -372,8 +380,9 @@ Patches: RookieEnough/patches-1.0.1.mpp
 
 <details>
 <summary id="Viber">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/48/viber-rookieenough-v26.1.2.0-all.apk"><img src="https://img.shields.io/badge/Viber-v26.1.2.0-gray?labelColor=665CAC&logo=Viber&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.viber.voip%22%2C%22name%22%3A%22Viber%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22viber%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.viber.voip%22%2C%22name%22%3A%22Viber%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22viber%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-12](https://github.com/nvbangg/builder-for-morphe/releases/tag/48)<br>
@@ -387,8 +396,9 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 
 <details>
 <summary id="TikTok">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/48/tiktok-rookieenough-v43.8.3-all.apk"><img src="https://img.shields.io/badge/TikTok-v43.8.3-gray?labelColor=252525&logo=TikTok&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.ss.android.ugc.trill%22%2C%22name%22%3A%22TikTok%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22tiktok%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.ss.android.ugc.trill%22%2C%22name%22%3A%22TikTok%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22tiktok%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-12](https://github.com/nvbangg/builder-for-morphe/releases/tag/48)<br>
@@ -408,8 +418,9 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 
 <details>
 <summary id="Telegram">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/62/telegram-paresh-maheshwari-v12.6.4-all.apk"><img src="https://img.shields.io/badge/Telegram-v12.6.4-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22org.telegram.messenger.web%22%2C%22name%22%3A%22Telegram%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22telegram%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22org.telegram.messenger.web%22%2C%22name%22%3A%22Telegram%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22telegram%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-30](https://github.com/nvbangg/builder-for-morphe/releases/tag/62)<br>
@@ -432,8 +443,9 @@ Patches: [Paresh-Maheshwari/patches-1.15.0.mpp](https://github.com/Paresh-Mahesh
 
 <details>
 <summary id="X">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/51/x-crimera-v11.81.0-release.0-all.apk"><img src="https://img.shields.io/badge/Twitter-v11.81.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.twitter.android%22%2C%22name%22%3A%22X%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22x-crimera%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.twitter.android%22%2C%22name%22%3A%22X%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22x-crimera%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-14](https://github.com/nvbangg/builder-for-morphe/releases/tag/51)<br>
@@ -512,8 +524,9 @@ Patches: [crimera/patches-3.2.0.mpp](https://github.com/crimera/piko/releases/ta
 
 <details>
 <summary id="Amazon-Shopping">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/48/amazon-shopping-rookieenough-v32.7.0.100-all.apk"><img src="https://img.shields.io/badge/Amazon_Shopping-v32.7.0.100-gray?labelColor=FF9900&logo=amazon&logoColor=000000"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.amazon.mShop.android.shopping%22%2C%22name%22%3A%22Amazon%20Shopping%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22amazon-shopping%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.amazon.mShop.android.shopping%22%2C%22name%22%3A%22Amazon%20Shopping%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22amazon-shopping%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-12](https://github.com/nvbangg/builder-for-morphe/releases/tag/48)<br>
@@ -527,8 +540,9 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 
 <details>
 <summary id="Prime-Video">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/prime-video-hoo-dles-v3.0.447.757-all.apk"><img src="https://img.shields.io/badge/Prime_Video-v3.0.447.757-gray?labelColor=00A8E1&logo=Prime-Video&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.amazon.avod.thirdpartyclient%22%2C%22name%22%3A%22Prime%20Video%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22prime-video%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.amazon.avod.thirdpartyclient%22%2C%22name%22%3A%22Prime%20Video%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22prime-video%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-05-02](https://github.com/nvbangg/builder-for-morphe/releases/tag/63)<br>
@@ -544,8 +558,9 @@ Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patche
 
 <details>
 <summary id="Disney-Plus">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/48/disney-plus-rookieenough-v26.5.1+rc1-2026.04.08-all.apk"><img src="https://img.shields.io/badge/Disney+-v26.5.1+rc1.2026.04.08-gray?labelColor=113CCF&logo=Disney%2B&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.disney.disneyplus%22%2C%22name%22%3A%22Disney%20Plus%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22disney-plus%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.disney.disneyplus%22%2C%22name%22%3A%22Disney%20Plus%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22disney-plus%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-12](https://github.com/nvbangg/builder-for-morphe/releases/tag/48)<br>
@@ -559,8 +574,9 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 
 <details>
 <summary id="Reddit">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/reddit-morpheapp-v2026.10.0-all.apk"><img src="https://img.shields.io/badge/Reddit-v2026.10.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.reddit.frontpage%22%2C%22name%22%3A%22Reddit%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22reddit%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.reddit.frontpage%22%2C%22name%22%3A%22Reddit%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22reddit%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-05-02](https://github.com/nvbangg/builder-for-morphe/releases/tag/63)<br>
@@ -587,8 +603,9 @@ Patches: [MorpheApp/patches-1.25.0.mpp](https://github.com/MorpheApp/morphe-patc
 
 <details>
 <summary id="Truecaller">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/62/truecaller-paresh-maheshwari-v26.10.6-all.apk"><img src="https://img.shields.io/badge/Truecaller-v26.10.6-gray?labelColor=0099FF&logo=truecaller&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.truecaller%22%2C%22name%22%3A%22Truecaller%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22truecaller%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.truecaller%22%2C%22name%22%3A%22Truecaller%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22truecaller%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-30](https://github.com/nvbangg/builder-for-morphe/releases/tag/62)<br>
@@ -608,8 +625,9 @@ Patches: [Paresh-Maheshwari/patches-1.15.0.mpp](https://github.com/Paresh-Mahesh
 
 <details>
 <summary id="Pinterest">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/60/pinterest-binarymend-v14.11.0-all.apk"><img src="https://img.shields.io/badge/Pinterest-v14.11.0-gray?labelColor=E60023&logo=Pinterest&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.pinterest%22%2C%22name%22%3A%22Pinterest%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22pinterest%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.pinterest%22%2C%22name%22%3A%22Pinterest%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22pinterest%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-27](https://github.com/nvbangg/builder-for-morphe/releases/tag/60)<br>
@@ -625,8 +643,9 @@ Patches: [binarymend/patches-1.3.1.mpp](https://github.com/binarymend/morphe-pat
 
 <details>
 <summary id="WPS-Office">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/wps-office-hoo-dles-v18.12.1-all.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22cn.wps.moffice_eng%22%2C%22name%22%3A%22WPS%20Office%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22wps-office%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22cn.wps.moffice_eng%22%2C%22name%22%3A%22WPS%20Office%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22wps-office%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-05-02](https://github.com/nvbangg/builder-for-morphe/releases/tag/63)<br>
@@ -641,8 +660,9 @@ Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patche
 
 <details>
 <summary id="Duolingo">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/duolingo-hoo-dles-v6.74.4-all.apk"><img src="https://img.shields.io/badge/Duolingo-v6.74.4-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.duolingo%22%2C%22name%22%3A%22Duolingo%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22duolingo%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.duolingo%22%2C%22name%22%3A%22Duolingo%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22duolingo%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-05-02](https://github.com/nvbangg/builder-for-morphe/releases/tag/63)<br>
@@ -657,8 +677,9 @@ Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patche
 
 <details>
 <summary id="Google-News">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/48/google-news-rookieenough-v5.108.0.644447823-all.apk"><img src="https://img.shields.io/badge/Google_News-v5.108.0.644447823-gray?labelColor=4285F4&logo=Google&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.google.android.apps.magazines%22%2C%22name%22%3A%22Google%20News%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22google-news%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.google.android.apps.magazines%22%2C%22name%22%3A%22Google%20News%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22google-news%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-12](https://github.com/nvbangg/builder-for-morphe/releases/tag/48)<br>
@@ -673,8 +694,9 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 
 <details>
 <summary id="Gboard">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/43/gboard-jkennethcarino-v17.0.12.880768217-release-arm64-v8a-arm64-v8a.apk"><img src="https://img.shields.io/badge/Gboard-v17.0.12.880768217.release.arm64.v8a-gray?labelColor=4285F4&logo=Google&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.google.android.inputmethod.latin%22%2C%22name%22%3A%22Gboard%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22gboard%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.google.android.inputmethod.latin%22%2C%22name%22%3A%22Gboard%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22gboard%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-07](https://github.com/nvbangg/builder-for-morphe/releases/tag/43)<br>
@@ -691,8 +713,9 @@ Patches: [jkennethcarino/patches-1.0.0.mpp](https://github.com/jkennethcarino/ad
 
 <details>
 <summary id="Google-Recorder">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/48/google-recorder-rookieenough-v4.2.20260307.895737626-arm64-v8a.apk"><img src="https://img.shields.io/badge/Google_Recorder-v4.2.20260307.895737626-gray?labelColor=F44336&logo=google&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.google.android.apps.recorder%22%2C%22name%22%3A%22Google%20Recorder%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22google-recorder%5C%22%7D%22%7D)
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.google.android.apps.recorder%22%2C%22name%22%3A%22Google%20Recorder%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22google-recorder%5C%22%7D%22%7D)
 <blockquote>
 
 [Release 2026-04-12](https://github.com/nvbangg/builder-for-morphe/releases/tag/48)<br>
@@ -708,8 +731,9 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 <details>
 <summary id="Photomath">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/48/photomath-rookieenough-v8.47.1-all.apk"><img src="https://img.shields.io/badge/Photomath-v8.47.1-gray?labelColor=DA2323&logo=google&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/48/photomath-rookieenough-module-v8.47.1-all.zip)
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.microblink.photomath%22%2C%22name%22%3A%22Photomath%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22photomath%5C%22%7D%22%7D) 
+[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/48/photomath-rookieenough-module-v8.47.1-all.zip)<br>
+
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.microblink.photomath%22%2C%22name%22%3A%22Photomath%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22photomath%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-12](https://github.com/nvbangg/builder-for-morphe/releases/tag/48)<br>
@@ -725,8 +749,9 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 
 <details>
 <summary id="ibis-Paint-X">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/ibis-paint-x-hoo-dles-v14.0.1-all.apk"><img src="https://img.shields.io/badge/ibis_Paint_X-v14.0.1-gray?labelColor=E64A8B&logo=ibispaintx&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22jp.ne.ibis.ibispaintx.app%22%2C%22name%22%3A%22ibis%20Paint%20X%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22ibis-paint-x%5C%22%7D%22%7D)
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22jp.ne.ibis.ibispaintx.app%22%2C%22name%22%3A%22ibis%20Paint%20X%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22ibis-paint-x%5C%22%7D%22%7D)
 <blockquote>
 
 [Release 2026-05-02](https://github.com/nvbangg/builder-for-morphe/releases/tag/63)<br>
@@ -741,8 +766,9 @@ Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patche
 <details>
 <summary id="VN-Video-Editor">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/62/vn-video-editor-paresh-maheshwari-v2.12.0-all.apk"><img src="https://img.shields.io/badge/VN_Video_Editor-v2.12.0-gray?labelColor=FFFFFF&logo=vn-editor&logoColor=000000"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/62/vn-video-editor-paresh-maheshwari-module-v2.12.0-all.zip)
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.frontrow.vlog%22%2C%22name%22%3A%22VN%20Video%20Editor%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22vn-video-editor%5C%22%7D%22%7D) 
+[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/62/vn-video-editor-paresh-maheshwari-module-v2.12.0-all.zip)<br>
+
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.frontrow.vlog%22%2C%22name%22%3A%22VN%20Video%20Editor%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22vn-video-editor%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-30](https://github.com/nvbangg/builder-for-morphe/releases/tag/62)<br>
@@ -757,8 +783,9 @@ Patches: [Paresh-Maheshwari/patches-1.15.0.mpp](https://github.com/Paresh-Mahesh
 
 <details>
 <summary id="Pandora">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/pandora-hoo-dles-v2602.1-all.apk"><img src="https://img.shields.io/badge/Pandora-v2602.1-gray?labelColor=3668FF&logo=Pandora&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.pandora.android%22%2C%22name%22%3A%22Pandora%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22pandora%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.pandora.android%22%2C%22name%22%3A%22Pandora%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22pandora%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-05-02](https://github.com/nvbangg/builder-for-morphe/releases/tag/63)<br>
@@ -773,8 +800,9 @@ Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patche
 
 <details>
 <summary id="KakaoTalk">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/48/kakaotalk-amplerevanced-v26.2.2-all.apk"><img src="https://img.shields.io/badge/KakaoTalk-v26.2.2-gray?labelColor=FEE500&logo=kakaotalk&logoColor=000000"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.kakao.talk%22%2C%22name%22%3A%22KakaoTalk%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22kakaotalk%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.kakao.talk%22%2C%22name%22%3A%22KakaoTalk%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22kakaotalk%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-12](https://github.com/nvbangg/builder-for-morphe/releases/tag/48)<br>
@@ -833,8 +861,9 @@ Patches: [AmpleReVanced/patches-1.0.0-dev.11.mpp](https://github.com/AmpleReVanc
 <details>
 <summary id="RAR">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/48/rar-rookieenough-v7.20.build131-all.apk"><img src="https://img.shields.io/badge/RAR-v7.20.build131-gray?labelColor=FF6B00&logo=rar&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/48/rar-rookieenough-module-v7.20.build131-all.zip)
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.rarlab.rar%22%2C%22name%22%3A%22RAR%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22rar%5C%22%7D%22%7D) 
+[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/48/rar-rookieenough-module-v7.20.build131-all.zip)<br>
+
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.rarlab.rar%22%2C%22name%22%3A%22RAR%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22rar%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-12](https://github.com/nvbangg/builder-for-morphe/releases/tag/48)<br>
@@ -849,8 +878,9 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 
 <details>
 <summary id="Cricbuzz">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/48/cricbuzz-rookieenough-v6.24.01-all.apk"><img src="https://img.shields.io/badge/Cricbuzz-v6.24.01-gray?labelColor=009270&logo=Cricbuzz&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.cricbuzz.android%22%2C%22name%22%3A%22Cricbuzz%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22cricbuzz%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.cricbuzz.android%22%2C%22name%22%3A%22Cricbuzz%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22cricbuzz%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-12](https://github.com/nvbangg/builder-for-morphe/releases/tag/48)<br>
@@ -864,8 +894,9 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 
 <details>
 <summary id="SoundCloud">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/soundcloud-hoo-dles-v2026.04.27-release-all.apk"><img src="https://img.shields.io/badge/SoundCloud-v2026.04.27.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.soundcloud.android%22%2C%22name%22%3A%22SoundCloud%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22soundcloud%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.soundcloud.android%22%2C%22name%22%3A%22SoundCloud%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22soundcloud%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-05-02](https://github.com/nvbangg/builder-for-morphe/releases/tag/63)<br>
@@ -880,8 +911,9 @@ Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patche
 
 <details>
 <summary id="Twitch">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/31/twitch-revanced-v16.9.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Twitch-v16.9.1-gray?labelColor=9146FF&logo=Twitch&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22tv.twitch.android.app%22%2C%22name%22%3A%22Twitch%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22twitch%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22tv.twitch.android.app%22%2C%22name%22%3A%22Twitch%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22twitch%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-03-20](https://github.com/nvbangg/builder-for-morphe/releases/tag/31)<br>
@@ -900,8 +932,9 @@ Patches: ReVanced/patches-6.1.0.rvp
 
 <details>
 <summary id="Tumblr">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/48/tumblr-rookieenough-v44.0.0.107-all.apk"><img src="https://img.shields.io/badge/Tumblr-v44.0.0.107-gray?labelColor=36465D&logo=Tumblr&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.tumblr%22%2C%22name%22%3A%22Tumblr%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22tumblr%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.tumblr%22%2C%22name%22%3A%22Tumblr%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22tumblr%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-12](https://github.com/nvbangg/builder-for-morphe/releases/tag/48)<br>
@@ -920,8 +953,9 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 
 <details>
 <summary id="MyFitnessPal">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/myfitnesspal-hoo-dles-v25.50.0-all.apk"><img src="https://img.shields.io/badge/MyFitnessPal-v25.50.0-gray?labelColor=0066EE&logo=MyFitnessPal&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.myfitnesspal.android%22%2C%22name%22%3A%22MyFitnessPal%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22myfitnesspal%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.myfitnesspal.android%22%2C%22name%22%3A%22MyFitnessPal%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22myfitnesspal%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-05-02](https://github.com/nvbangg/builder-for-morphe/releases/tag/63)<br>
@@ -935,8 +969,9 @@ Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patche
 
 <details>
 <summary id="Proton-VPN">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/proton-vpn-hoo-dles-v5.17.72.0-all.apk"><img src="https://img.shields.io/badge/Proton_VPN-v5.17.72.0-gray?labelColor=6D4AFF&logo=protonvpn&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22ch.protonvpn.android%22%2C%22name%22%3A%22Proton%20VPN%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22proton-vpn%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22ch.protonvpn.android%22%2C%22name%22%3A%22Proton%20VPN%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22proton-vpn%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-05-02](https://github.com/nvbangg/builder-for-morphe/releases/tag/63)<br>
@@ -953,8 +988,9 @@ Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patche
 
 <details>
 <summary id="Strava">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/48/strava-rookieenough-v458.12-all.apk"><img src="https://img.shields.io/badge/Strava-v458.12-gray?labelColor=FC4C02&logo=Strava&logoColor=white"></a></summary>
+<br>
 
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.strava%22%2C%22name%22%3A%22Strava%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22strava%5C%22%7D%22%7D) 
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.strava%22%2C%22name%22%3A%22Strava%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22strava%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-12](https://github.com/nvbangg/builder-for-morphe/releases/tag/48)<br>
@@ -977,8 +1013,9 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 <details>
 <summary id="Cake">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/63/cake-hoo-dles-module-v6.4.0-arm64-v8a.zip)
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22me.mycake%22%2C%22name%22%3A%22Cake%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22cake%5C%22%7D%22%7D) 
+[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/63/cake-hoo-dles-module-v6.4.0-arm64-v8a.zip)<br>
+
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22me.mycake%22%2C%22name%22%3A%22Cake%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22cake%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-05-02](https://github.com/nvbangg/builder-for-morphe/releases/tag/63)<br>
@@ -993,8 +1030,9 @@ Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patche
 <details>
 <summary id="Nova-Launcher">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/48/nova-launcher-hoo-dles-v81042-all.apk"><img src="https://img.shields.io/badge/Nova_Launcher-v81042-gray?labelColor=FF3C30&logo=nova_launcher&logoColor=white"></a></summary>
  
-[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/48/nova-launcher-hoo-dles-module-v81042-all.zip)
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.teslacoilsw.launcher%22%2C%22name%22%3A%22Nova%20Launcher%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22nova-launcher%5C%22%7D%22%7D) 
+[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/48/nova-launcher-hoo-dles-module-v81042-all.zip)<br>
+
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.teslacoilsw.launcher%22%2C%22name%22%3A%22Nova%20Launcher%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22nova-launcher%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-12](https://github.com/nvbangg/builder-for-morphe/releases/tag/48)<br>
@@ -1011,8 +1049,9 @@ Patches: [hoo-dles/patches-1.23.0.mpp](https://github.com/hoo-dles/morphe-patche
 <details>
 <summary id="Sofascore">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/sofascore-hoo-dles-v25.12.17-all.apk"><img src="https://img.shields.io/badge/Sofascore-v25.12.17-gray?labelColor=1A4BFF&logo=sofascore&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/63/sofascore-hoo-dles-module-v25.12.17-all.zip)
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.sofascore.results%22%2C%22name%22%3A%22Sofascore%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22sofascore%5C%22%7D%22%7D) 
+[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/63/sofascore-hoo-dles-module-v25.12.17-all.zip)<br>
+
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.sofascore.results%22%2C%22name%22%3A%22Sofascore%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22sofascore%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-05-02](https://github.com/nvbangg/builder-for-morphe/releases/tag/63)<br>
@@ -1027,8 +1066,9 @@ Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patche
 <details>
 <summary id="Document-Scanner">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/62/document-scanner-paresh-maheshwari-v6.8.18-all.apk"><img src="https://img.shields.io/badge/Document_Scanner-v6.8.18-gray?labelColor=415259&logo=document&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/62/document-scanner-paresh-maheshwari-module-v6.8.18-all.zip)
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.cv.docscanner%22%2C%22name%22%3A%22Document%20Scanner%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22document-scanner%5C%22%7D%22%7D) 
+[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/62/document-scanner-paresh-maheshwari-module-v6.8.18-all.zip)<br>
+
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.cv.docscanner%22%2C%22name%22%3A%22Document%20Scanner%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22document-scanner%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-30](https://github.com/nvbangg/builder-for-morphe/releases/tag/62)<br>
@@ -1043,8 +1083,9 @@ Patches: [Paresh-Maheshwari/patches-1.15.0.mpp](https://github.com/Paresh-Mahesh
 <details>
 <summary id="Wallcraft">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/wallcraft-hoo-dles-v3.61.01-all.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/63/wallcraft-hoo-dles-module-v3.61.01-all.zip)
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.wallpaperscraft.wallpaper%22%2C%22name%22%3A%22Wallcraft%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22wallcraft%5C%22%7D%22%7D) 
+[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/63/wallcraft-hoo-dles-module-v3.61.01-all.zip)<br>
+
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.wallpaperscraft.wallpaper%22%2C%22name%22%3A%22Wallcraft%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22wallcraft%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-05-02](https://github.com/nvbangg/builder-for-morphe/releases/tag/63)<br>
@@ -1059,8 +1100,9 @@ Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patche
 <details>
 <summary id="Fing">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/62/fing-paresh-maheshwari-v12.11.9-all.apk"><img src="https://img.shields.io/badge/Fing-v12.11.9-gray?labelColor=007AFF&logo=Fing&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/62/fing-paresh-maheshwari-module-v12.11.9-all.zip)
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.overlook.android.fing%22%2C%22name%22%3A%22Fing%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22fing%5C%22%7D%22%7D) 
+[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/62/fing-paresh-maheshwari-module-v12.11.9-all.zip)<br>
+
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.overlook.android.fing%22%2C%22name%22%3A%22Fing%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22fing%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-04-30](https://github.com/nvbangg/builder-for-morphe/releases/tag/62)<br>
@@ -1075,8 +1117,9 @@ Patches: [Paresh-Maheshwari/patches-1.15.0.mpp](https://github.com/Paresh-Mahesh
 <details>
 <summary id="Windy">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/windy-hoo-dles-v49.0.1-all.apk"><img src="https://img.shields.io/badge/Windy-v49.0.1-gray?labelColor=C62828&logo=windy&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/63/windy-hoo-dles-module-v49.0.1-all.zip)
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.windyty.android%22%2C%22name%22%3A%22Windy%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22windy%5C%22%7D%22%7D) 
+[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/63/windy-hoo-dles-module-v49.0.1-all.zip)<br>
+
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.windyty.android%22%2C%22name%22%3A%22Windy%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22windy%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-05-02](https://github.com/nvbangg/builder-for-morphe/releases/tag/63)<br>
@@ -1091,8 +1134,9 @@ Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patche
 <details>
 <summary id="Merriam-Webster-Dictionary">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/merriam-webster-dictionary-hoo-dles-v5.5.0-all.apk"><img src="https://img.shields.io/badge/Merriam_Webster_Dictionary-v5.5.0-gray?labelColor=B30000&logo=merriam_webster&logoColor=white"></a></summary>
  
-[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/63/merriam-webster-dictionary-hoo-dles-module-v5.5.0-all.zip)
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.merriamwebster%22%2C%22name%22%3A%22Merriam%20Webster%20Dictionary%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22merriam-webster%5C%22%7D%22%7D) 
+[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/63/merriam-webster-dictionary-hoo-dles-module-v5.5.0-all.zip)<br>
+
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.merriamwebster%22%2C%22name%22%3A%22Merriam%20Webster%20Dictionary%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22merriam-webster%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-05-02](https://github.com/nvbangg/builder-for-morphe/releases/tag/63)<br>
@@ -1107,8 +1151,9 @@ Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patche
 <details>
 <summary id="Busuu">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/busuu-hoo-dles-v32.30.0.1575420.-all.apk"><img src="https://img.shields.io/badge/Busuu-v32.30.0(1575420)-gray?labelColor=116EEE&logo=busuu&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/63/busuu-hoo-dles-module-v32.30.0.1575420.-all.zip)
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.busuu.android.enc%22%2C%22name%22%3A%22Busuu%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22busuu%5C%22%7D%22%7D) 
+[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/63/busuu-hoo-dles-module-v32.30.0.1575420.-all.zip)<br>
+
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.busuu.android.enc%22%2C%22name%22%3A%22Busuu%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22busuu%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-05-02](https://github.com/nvbangg/builder-for-morphe/releases/tag/63)<br>
@@ -1123,8 +1168,9 @@ Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patche
 <details>
 <summary id="Smart-Launcher-6">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/smart-launcher-6-hoo-dles-v6.6build002patch1-all.apk"><img src="https://img.shields.io/badge/Smart_Launcher_6-v6.6build002patch1-gray?labelColor=0F1419&logo=smart_launcher&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/63/smart-launcher-6-hoo-dles-module-v6.6build002patch1-all.zip)
-[![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22ginlemon.flowerfree%22%2C%22name%22%3A%22Smart%20Launcher%206%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22smart-launcher%5C%22%7D%22%7D) 
+[Module (.zip)](https://github.com/nvbangg/builder-for-morphe/releases/download/63/smart-launcher-6-hoo-dles-module-v6.6build002patch1-all.zip)<br>
+
+- [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22ginlemon.flowerfree%22%2C%22name%22%3A%22Smart%20Launcher%206%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22smart-launcher%5C%22%7D%22%7D) 
 <blockquote>
 
 [Release 2026-05-02](https://github.com/nvbangg/builder-for-morphe/releases/tag/63)<br>
