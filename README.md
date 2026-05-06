@@ -417,14 +417,14 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Telegram](https://telegram.org/android)
 
 <details>
-<summary id="Telegram">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/62/telegram-paresh-maheshwari-v12.6.4-all.apk"><img src="https://img.shields.io/badge/Telegram-v12.6.4-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/64/telegram-paresh-maheshwari-v12.6.4-all.apk"><img src="https://img.shields.io/badge/Telegram-v12.6.4-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 <br>
 
 - [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22org.telegram.messenger.web%22%2C%22name%22%3A%22Telegram%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22telegram%5C%22%7D%22%7D) 
 <blockquote>
 
-[Release 2026-04-30](https://github.com/nvbangg/builder-for-morphe/releases/tag/62)<br>
-Patches: [Paresh-Maheshwari/patches-1.15.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.15.0)
+[Release 2026-05-06](https://github.com/nvbangg/builder-for-morphe/releases/tag/64)<br>
+Patches: [Paresh-Maheshwari/patches-1.16.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.16.0)
 - Anti-delete messages
 - Anti-disappearing media
 - Bypass channel restrictions
@@ -573,14 +573,14 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
 <details>
-<summary id="Reddit">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/reddit-morpheapp-v2026.10.0-all.apk"><img src="https://img.shields.io/badge/Reddit-v2026.10.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
+<summary id="Reddit">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/64/reddit-morpheapp-v2026.10.0-all.apk"><img src="https://img.shields.io/badge/Reddit-v2026.10.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
 <br>
 
 - [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.reddit.frontpage%22%2C%22name%22%3A%22Reddit%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22reddit%5C%22%7D%22%7D) 
 <blockquote>
 
-[Release 2026-05-02](https://github.com/nvbangg/builder-for-morphe/releases/tag/63)<br>
-Patches: [MorpheApp/patches-1.25.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.25.0)
+[Release 2026-05-06](https://github.com/nvbangg/builder-for-morphe/releases/tag/64)<br>
+Patches: [MorpheApp/patches-1.26.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.26.0)
 - Disable modern home
 - Disable screenshot popup
 - Hide Ask button
@@ -602,17 +602,18 @@ Patches: [MorpheApp/patches-1.25.0.mpp](https://github.com/MorpheApp/morphe-patc
 ### [Truecaller](https://play.google.com/store/apps/details?id=com.truecaller)
 
 <details>
-<summary id="Truecaller">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/62/truecaller-paresh-maheshwari-v26.10.6-all.apk"><img src="https://img.shields.io/badge/Truecaller-v26.10.6-gray?labelColor=0099FF&logo=truecaller&logoColor=white"></a></summary>
+<summary id="Truecaller">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/64/truecaller-paresh-maheshwari-v26.10.6-all.apk"><img src="https://img.shields.io/badge/Truecaller-v26.10.6-gray?labelColor=0099FF&logo=truecaller&logoColor=white"></a></summary>
 <br>
 
 - [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.truecaller%22%2C%22name%22%3A%22Truecaller%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22truecaller%5C%22%7D%22%7D) 
 <blockquote>
 
-[Release 2026-04-30](https://github.com/nvbangg/builder-for-morphe/releases/tag/62)<br>
-Patches: [Paresh-Maheshwari/patches-1.15.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.15.0)
+[Release 2026-05-06](https://github.com/nvbangg/builder-for-morphe/releases/tag/64)<br>
+Patches: [Paresh-Maheshwari/patches-1.16.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.16.0)
 - Disable telemetry
 - Disable update check
 - Hide Assistant tab
+- Hide Family Protection button
 - Hide Premium from settings
 - Hide Premium tab
 - Hide Scams tab
@@ -968,18 +969,16 @@ Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Proton VPN](https://play.google.com/store/apps/details?id=ch.protonvpn.android): Fast & Secure VPN
 
 <details>
-<summary id="Proton-VPN">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/proton-vpn-hoo-dles-v5.17.72.0-all.apk"><img src="https://img.shields.io/badge/Proton_VPN-v5.17.72.0-gray?labelColor=6D4AFF&logo=protonvpn&logoColor=white"></a></summary>
+<summary id="Proton-VPN">&emsp;<a href="https://github.com/nvbangg/builder-for-morphe/releases/download/64/proton-vpn-paresh-maheshwari-v5.17.72.0-all.apk"><img src="https://img.shields.io/badge/Proton_VPN-v5.17.72.0-gray?labelColor=6D4AFF&logo=protonvpn&logoColor=white"></a></summary>
 <br>
 
 - [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22ch.protonvpn.android%22%2C%22name%22%3A%22Proton%20VPN%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22proton-vpn%5C%22%7D%22%7D) 
 <blockquote>
 
-[Release 2026-05-02](https://github.com/nvbangg/builder-for-morphe/releases/tag/63)<br>
-Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.29.0)
-- Remove delay
-- Unlock LAN connections
-- Unlock custom DNS
-- Unlock split tunneling
+[Release 2026-05-06](https://github.com/nvbangg/builder-for-morphe/releases/tag/64)<br>
+Patches: [Paresh-Maheshwari/patches-1.16.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.16.0)
+- Disable telemetry
+- Proton VPN Premium
 </blockquote>
 </details>
 
