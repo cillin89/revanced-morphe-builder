@@ -8,7 +8,7 @@
 > 🔒 All release files are immutable, meaning they cannot be modified once published — even by me.  
 
 > [!TIP]  
-> 💡 Do not be afraid to [open an issue](https://github.com/nvbangg/awesome-for-morphe/issues/new) if you want support for any app. 
+> 💡 Do not be afraid to [open an issue](https://github.com/nvbangg/awesome-for-morphe/issues/new) if you want to add support for any additional app. 
 
 <div align="center">
 
@@ -114,7 +114,7 @@
 
 <details>
 <summary id="YouTube">Recommended: <a href="https://github.com/nvbangg/builder-for-morphe/releases/download/63/youtube-nvbangg-v20.47.62-all.apk"><img src="https://img.shields.io/badge/YouTube-v20.47.62-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
-
+  
 [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.youtube%22%2C%22name%22%3A%22YouTube%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fbuilder-for-morphe%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22youtube-nvbangg%5C%22%7D%22%7D) 
 - This is a Morphe-based build with only essential patches, keeping YouTube close to the original experience. Great for beginners. 
 <blockquote>
